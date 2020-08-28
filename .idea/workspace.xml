@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0ae4c11-98ec-4238-a7b2-9725d49687ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Apple-Display.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.5.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ui/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/renderer.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598630315970</updated>
-      <workItem from="1598630317548" duration="8036000" />
+      <workItem from="1598630317548" duration="8401000" />
     </task>
     <servers />
   </component>
@@ -91,21 +80,25 @@
       <screen x="0" y="25" width="1792" height="1036" />
     </state>
     <state x="634" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1792.1036@0.25.1792.1036" timestamp="1598630908835" />
-    <state width="1205" height="281" key="GridCell.Tab.0.bottom" timestamp="1598639807311">
-      <screen x="0" y="25" width="1792" height="1036" />
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom" timestamp="1598650613971">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1598650613971" />
     <state width="1205" height="281" key="GridCell.Tab.0.bottom/0.25.1792.1036@0.25.1792.1036" timestamp="1598639807311" />
-    <state width="1205" height="281" key="GridCell.Tab.0.center" timestamp="1598639807310">
-      <screen x="0" y="25" width="1792" height="1036" />
+    <state width="1750" height="281" key="GridCell.Tab.0.center" timestamp="1598650613969">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1598650613969" />
     <state width="1205" height="281" key="GridCell.Tab.0.center/0.25.1792.1036@0.25.1792.1036" timestamp="1598639807310" />
-    <state width="1205" height="281" key="GridCell.Tab.0.left" timestamp="1598639807310">
-      <screen x="0" y="25" width="1792" height="1036" />
+    <state width="1750" height="281" key="GridCell.Tab.0.left" timestamp="1598650613969">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1598650613969" />
     <state width="1205" height="281" key="GridCell.Tab.0.left/0.25.1792.1036@0.25.1792.1036" timestamp="1598639807310" />
-    <state width="1205" height="281" key="GridCell.Tab.0.right" timestamp="1598639807311">
-      <screen x="0" y="25" width="1792" height="1036" />
+    <state width="1750" height="281" key="GridCell.Tab.0.right" timestamp="1598650613970">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state width="1750" height="281" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1598650613970" />
     <state width="1205" height="281" key="GridCell.Tab.0.right/0.25.1792.1036@0.25.1792.1036" timestamp="1598639807311" />
     <state x="620" y="367" key="jetbrains.nodejs.interpreters-dialog" timestamp="1598630488394">
       <screen x="0" y="25" width="1792" height="1036" />
