@@ -1,4 +1,8 @@
 $(function() {
+    loadContent();
+});
+
+function loadContent() {
     $.getJSON( "data.json", function( data ) {
 
         const img = new Image();
@@ -26,8 +30,9 @@ $(function() {
         }
 
         content.attr("src",img.src);
-    });
-});
 
+        setTimeout(loadContent, 10000);
+    });
+}
 
 
