@@ -14,7 +14,7 @@
   ],
   "author": "Techwizmatt",
   "devDependencies": {
-    "electron": "^10.1.0",
+    "electron": "^4.0.3",
     "electron-builder": "^20.38.5",
     "electron-rebuild": "^1.8.4"
   }
