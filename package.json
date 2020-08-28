@@ -1,0 +1,19 @@
+{
+  "name": "apple-display",
+  "version": "0.0.1",
+  "description": "A simple application that displays content behind a cut out of an Apple Logo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Electron",
+    "apple",
+    "display",
+    "demo"
+  ],
+  "author": "Techwizmatt",
+  "devDependencies": {
+    "electron": "^10.1.0"
+  }
+}
